@@ -1,7 +1,9 @@
 /* 10 additional declarations
     1 & 2 font family for li, ol
     3,4  a:hover 
-    5. border-raidus for img*/
+    5. border-raidus for img
+    6. border for img
+    7. 8 9 10*/
     
 
 
@@ -39,6 +41,7 @@ img {
     margin-right: auto;
     background: url("https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg");
     border-radius: 8px;
+    border: 1px solid #ddd;
 
 }
 img:hover{
@@ -47,6 +50,9 @@ img:hover{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 2px 1px gray;
 }
 
 body {
