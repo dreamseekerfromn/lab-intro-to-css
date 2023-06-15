@@ -49,7 +49,7 @@ img {
     background: url("https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg");
     border-radius: 8px;
     border: 1px solid #ddd;
-    display: inline-block;
+    
 
 }
 img:hover{
@@ -61,6 +61,7 @@ img:hover{
     border-radius: 8px;
     border: 1px solid #ddd;
     box-shadow: 0 0 2px 1px gray;
+    display: block;
 }
 
 body {
