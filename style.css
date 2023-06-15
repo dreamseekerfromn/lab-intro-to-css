@@ -1,5 +1,6 @@
-h1,h2,h3 {
+h1 {
     font-family: fantasy;
+    font-size: 30px;
     color: purple;
 }
 
@@ -17,11 +18,13 @@ li {
     color:blue;
     background-color: lightpink;
     padding-left: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 ol {
     font-weight: bold;
     list-style-position: inside; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 img {
@@ -44,6 +47,7 @@ p{
     padding-bottom: 20px;
 }
 
-h1 {
-    font-size: 30px;
+a:hover{
+    color:greenyellow;
+    font-weight:bold;
 }
