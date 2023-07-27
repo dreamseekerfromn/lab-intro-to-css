@@ -122,4 +122,5 @@ cypress/screenshots
 # other artifacts
 .DS_Store
 
-
+# env
+.env
